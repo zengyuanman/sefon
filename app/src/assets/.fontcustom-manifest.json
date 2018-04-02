@@ -1,0 +1,101 @@
+{
+  "checksum": {
+    "previous": "81eab5e9de6c68521b67b46a5d04754de91c5a0da982d9cded57c5d1668647a2",
+    "current": "81eab5e9de6c68521b67b46a5d04754de91c5a0da982d9cded57c5d1668647a2"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_81eab5e9de6c68521b67b46a5d04754d.ttf",
+    "fontcustom/fontcustom_81eab5e9de6c68521b67b46a5d04754d.svg",
+    "fontcustom/fontcustom_81eab5e9de6c68521b67b46a5d04754d.woff",
+    "fontcustom/fontcustom_81eab5e9de6c68521b67b46a5d04754d.eot",
+    "fontcustom/fontcustom_81eab5e9de6c68521b67b46a5d04754d.woff2"
+  ],
+  "glyphs": {
+    "dataAsset": {
+      "codepoint": 61696,
+      "source": "font/dataAsset.svg"
+    },
+    "dataManage": {
+      "codepoint": 61697,
+      "source": "font/dataManage.svg"
+    },
+    "dataUse": {
+      "codepoint": 61698,
+      "source": "font/dataUse.svg"
+    },
+    "m-hgl": {
+      "codepoint": 61705,
+      "source": "font/m-hgl.svg"
+    },
+    "m-lcsqqk": {
+      "codepoint": 61699,
+      "source": "font/m-lcsqqk.svg"
+    },
+    "m-sjczsj": {
+      "codepoint": 61700,
+      "source": "font/m-sjczsj.svg"
+    },
+    "m-wtsjl": {
+      "codepoint": 61706,
+      "source": "font/m-wtsjl.svg"
+    },
+    "m-ysjsj": {
+      "codepoint": 61701,
+      "source": "font/m-ysjsj.svg"
+    },
+    "m-ysjzljh": {
+      "codepoint": 61702,
+      "source": "font/m-ysjzljh.svg"
+    },
+    "m-ywxtzljh": {
+      "codepoint": 61703,
+      "source": "font/m-ywxtzljh.svg"
+    },
+    "m-zlsjl": {
+      "codepoint": 61707,
+      "source": "font/m-zlsjl.svg"
+    },
+    "m-zqsjl": {
+      "codepoint": 61708,
+      "source": "font/m-zqsjl.svg"
+    },
+    "m-zsjzljh": {
+      "codepoint": 61704,
+      "source": "font/m-zsjzljh.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "font",
+      "vectors": "font"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}
